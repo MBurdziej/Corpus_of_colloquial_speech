@@ -1,0 +1,1 @@
+This project is a tool for extracting audio recordings from YouTube videos, segmenting them into sections according to the transcription, and creating a legend of speakers and films based on the analysis of these recordings. It thus creates a corpus of colloquial speech, which will be used to train the OpenAI Whisper model (speech recognition system).
