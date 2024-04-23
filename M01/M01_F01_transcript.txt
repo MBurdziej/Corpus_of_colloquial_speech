@@ -1,0 +1,579 @@
+1: Kochani, dzięki uprzejmości Buddy, oto jeden z najszybszych samochodów świata!
+2: Niedawny REKORDZISTA prędkości.
+3: Pół samochód, pół samolot.
+4:  Concorde dróg publicznych. Bugatti Veyron.
+5:  Nie ważne czy byłeś entuzjastą motoryzacji, fanem technologii czy po prostu nastolatkiem zafascynowanym samochodami
+6: przed laty WSZYSCY znali podstawowe liczby z nim związane.
+7: 1001 koni mechanicznych i 407 kilometrów na godzinę.
+8: Dziś jednak na podstawach nie poprzestaniemy.
+9: W przeciągu najbliższych kilkudziesięciu minut dowiemy się absolutnie wszystkiego na jego temat.
+10: Poznając jego historię i technologię w nim zastosowaną uświadomimy sobie
+11: jak ogromnym… niebywałym osiągnięciem motoryzacyjnym jest.
+12: Zapraszam Was na niesamowitą analizę Bugatti Veyrona.
+13: Zapnijcie pasy i jedziemy!
+14: Bugatti Veyron, symbol niedawnej hegemonii koncernu VAG.
+15:  Już same kulisy jego powstania bardzo wiele o nim mówią.
+16: Końcówka lat 90-tych.
+17: Volkswagen po zażegnaniu wszystkich kryzysów finansowych nabrał niesamowitego rozpędu i wiatru w żagle.
+18:  Chcąc podkreślić swój status hegemona w 1998 roku
+19: koncern przejął francuską markę luksusowych samochodów wyścigowych Bugatti.
+20: Będący ówcześnie u sterów niemieckiego giganta Ferdinand Piech
+21: zarządził, że należy zbudować coś absolutnie przełomowego.
+22: Samochód tak niezwykły, że usłyszy o nim cały świat.
+23: Samochód który przywróci chwałę marce Bugatti
+24: jednocześnie podkreślając status grupy Volkswagena jako króla na motoryzacyjnej mapie świata.
+25: Ferdinand, znany ze swojego rozmachu i bardzo dużych wymagań narzucanych inżynierom
+26: zawiesił poprzeczkę niewiarygodnie wysoko.
+27: Nowy hipersamochód miał mieć przynajmniej 1000 KM,
+28:  generować przeciążenie minimum 1,2G przy przyspieszaniu i 2G przy hamowaniu oraz osiągać 407 km/h.
+29: Dlaczego nie okrągłe 400 km/h,
+30:  a dokładnie, konkretnie 407 km/h?
+31:  Wiąże się z tym bardzo ciekawa historia.
+32: Ferdinand Piech był wnukiem Ferdinanda Porsche.
+33: Pod koniec lat 60 odpowiedzialny był za cały dział motorsportu w Porsche
+34:  i wtedy po raz pierwszy dał się poznać jako genialny inżynier.
+35: To on zaprojektował Porsche 917,
+36: które nie dość że wygrało LeMans to również ustanowiło ówczesny rekord zarejestrowanej prędkości podczas tego wyścigu - 362 km/h.
+37:  I rekord ten przetrwał aż 17 lat!
+38:  Jednak, później francuzi zaprojektowali samochód, tylko i wyłącznie w celu pokonania tego wyczynu.
+39:  Peugeot WM P88 nie miał być wytrzymały, nie miał wygrać wyścigu ani zdobywać mistrzostw
+40: - JEDYNYM jego założeniem projektowym było przekroczenie 400 km/h na prostej Hunaudieres.
+41: Francuski pocisk przez całą swoją karierę wystartował tylko w jednym wyścigu,
+42:  w LeMans w 88 roku, rozpędził się dokładnie do 406 km/h,
+43: a po kilku okrążeniach ze względu na przeciążenie i przegrzanie silnika oraz systemu doładowania
+44: jak gdyby nigdy nic zespół wycofał się z wyścigu.
+45:  Ale rekord został pobity.
+46: 407 km/h było więc zemstą Ferdinanda Piecha wymierzoną we francuzów.
+47: Po usłyszeniu wymagań dotyczących prędkości, mocy czy generowanych przeciążeń
+48: połowa zespołu przydzielonego do tego zadania zrezygnowała twierdząc, że to niemożliwe.
+49: Kontaktując się z zespołami Formuły 1 by móc testować samochód w ich tunelach aero
+50: za każdym razem słyszano odpowiedź
+51:  - przykro nam, nie rozwijamy takich prędkości.
+52: Jednak Ci którzy pozostali przy projekcie, zakasali rękawy.
+53: Pierwszym zaprezentowanym na targach w Paryżu autem koncepcyjnym był Bugatti EB118.
+54: Był to prototyp o nadwoziu coupe z charakterystyczną dla Bugatti jakby zgarbioną sylwetką.
+55: Nastawiony bardziej do długich podróży niż do podboju torów wyścigowych pojazd
+56: może z perspektywy czasu nie grzeszył urodą, ale nie ma wątpliwości że cały projekt był na odpowiednio wysokim poziomie
+57:  pod kątem prestiżu i komfortu a jednocześnie idealnie nawiązywał do historycznych modeli francuskiej marki,
+58: m.in. charakterystycznym grillem w kształcie podkowy.
+59: Rok później w 99 zaprezentowano Bugatti EB218,
+60: który można powiedzieć był rozwinięciem koncepcji poprzednika,
+61:   z wyraźnie wydłużonym nadwoziem,
+62: dodatkową parą drzwi i stałym napędem na 4 koła zapożyczonym z Lamborghini Diablo VT.
+63: Jeszcze w tym samym roku zaprezentowano kolejny prototyp spod znaku Bugatti,
+64:  ale tym razem nie był to luksusowy coupe a coś co śmiało można było nazwać mianem supersamochodu.
+65: Model 18/3, który co ciekawe ochrzczony był nazwą kodową... Chiron
+66: jeszcze więcej elementów zapożyczał z wspomnianego Diablo VT, m.in.
+67: kompletną płytę podłogową oraz zawieszenie.
+68: Jak widać z każdym kolejnym prototypem coraz bardziej zbliżano się do ostatecznej formy Veyrona,
+69: a ostatnim koncepcyjnym jego wcieleniem był Bugatti 18/4.
+70: On już był prawie niemal tym, co później trafiło do sprzedaży jako Veyron.
+71: Wszystkie wymienione przed chwilą koncepty były napędzane tym samym silnikiem
+72: i jeśli myślicie że to co ostatecznie trafiło do Veyrona można nazwać szaleństwem, to posłuchajcie tego.
+73: Wyobraźcie sobie, że inżynierowie Volkswagena postanowili do V12 dołożyć kolejny rząd złożony z 6 cylindrów
+74: tworząc tym samym absolutnie zwariowane monstrum z 3 głowicami
+75: i 3 rzędami cylindrów o łącznej pojemności 6,3 litra.
+76: Oficjalnie nazywana była W18 choć szczerze mówiąc mi bardziej pasowałoby określenie Y18,
+77: gdzie litera Y faktycznie reprezentowałaby 3 osobne odnogi, ale to kwestia gustu.
+78: Nie mniej jednak skoro faktycznie Ferdinand Piech chciał stworzyć coś niebywałego,
+79:  to najlepszą tego reprezentacją był właśnie ten silnik.
+80: Nie bez powodu większość materiałów prasowych które można znaleźć
+81: przedstawiają tą jednostkę umieszczoną na kolumnie jako monumentalne osiągnięcie niemieckich inżynierów
+82:  pasujące do tworzonego wizerunku najlepszego samochodu świata.
+83: Koniec końców jednak silnik ten nigdy nie trafił do produkcji, a były ku temu 3 powody.
+84: Po pierwsze silnik z racji swojego skomplikowania miał spore problemy z poprawną synchronizacją pracy 3 rzędów cylindrów.
+85: Nie pomagała zmiana kolejności zapłonów czy eksperymenty z wałkami rozrządu w głowicy.
+86: Po drugie jednostka była wybitnie źle zbalansowana.
+87: Swoją charakterystyką pracy przypominała bardziej trzęsącego się amerykańskiego big-blocka
+88: niż luksusowy projekt pożeracza autostrad.
+89: Motor był tak wielki, że ledwo udawało się go zmieścić w prototypowych samochodach.
+90: Więc ostatnim powodem były liczby.
+91: Brak miejsca zadecydował o braku turbodoładowania, z kolei wolnossąca architektura
+92: powodowała osiąganie niezadowalających poziomów mocy.
+93:  Zwariowana W18 generowała zaledwie 563 KM mocy i 649 Nm.
+94: Trudno nazwać by był to silnik słaby,
+95:  ale nawet nie zbliżył się do początkowego wymogu 1000 KM, przez co ostatecznie porzucono ten pomysł.
+96: W jaki więc sposób uzyskać 1000 KM z silnika, który jednocześnie uda się upchać za plecami kierowcy?
+97: Teoretycznie dałoby się znaleźć np. jakąś wyczynową wysokoobrotową V12 i ją bardzo bardzo mocno doładować,
+98: ale Ferdinand Piech kategorycznie zakazał stosowania jakichkolwiek sportowych jednostek.
+99: Po pierwsze silnik Veyrona miał być kompletnie bezawaryjny, a ponadto niedopuszczalne były ryki z wydechu,
+100: miało być stosunkowo cicho, dostojnie i przede wszystkim
+101:  - z dużym momentem obrotowym w dolnej partii obrotów, żeby ta moc dostępna była na co dzień.
+102: Tak jak mówiłem włodarz Volkswagena zawsze stawiał poprzeczkę wysoko.
+103: Konstruktorzy więc skierowali się w zupełnie innym kierunku.
+104: Otóż również w tańszych autach Volkswagen w tamtych czasach spotykał się z takim samym problemem
+105:  - jak w ciasnych komorach silnika kompaktowych samochodów można upchać np.
+106:  V6 dla klientów premium, którzy są w stanie więcej zapłacić za dodatkową moc?
+107: Zaprojektowano więc połączenie jednostki widlastej i rzędowej, mianowicie VR6.
+108: Idea prosta - mamy dwa rzędy cylindrów, tak jak w V6,
+109: ale na tyle mocno zmniejszamy kąt rozwarcia między nimi, np. do 15 stopni,
+110: że całość udaje się zmieścić pod jedną głowicą.
+111:  Dzięki temu mamy same zalety
+112:  - mały, kompaktowy silnik o nieskomplikowanej budowie z dużą liczbą cylindrów.
+113: Dokładnie tą samą idee przeniesiono do Veyrona.
+114: Wzięto silnik VR6, dodano 2 kolejne cylindry tworząc VR8-kę,
+115: a następnie dokładnie tak jakby robiąc z silników rzędowych jednostkę widlastą,
+116:  dołożono drugą VR8 pod kątem 90 stopni
+117: i połączono je we wspólnym bloku silnika na jednym wale korbowym
+118: tworząc tym samym silnik W16 o pojemności 8 litrów.
+119: Przyglądając się jednak bliżej architekturze VR zauważymy, że taki silnik ma jedną płaską głowicę, ale różne kąty nachylenia cylindrów,
+120:  przez co zachodzi niezgodność kształtów tłoków i komory spalania.
+121:  W silnikach VR4 i VR6 umieszczanych w kompaktowych samochodach koncernu VAG
+122: rozwiązano ten problem modyfikując kształt komory spalania.
+123: Wyraźnie widać tutaj miejsce górnego martwego położenia tłoka.
+124: Komora spalania ma nieregularny kształt, tak żeby pasować do płaskiej głowicy.
+125: Nie jest to jednak optymalne rozwiązanie pod kątem generowania mocy,
+126:  ponieważ nieregularny kształt komory spalania zaburza propagację płomienia w czasie zapłonu,
+127:  dlatego w Veyronie rozwiązano ten problem inaczej.
+128:  Otóż W16 posiada... skośny, ścięty kształt tłoków
+129:  który jest dłuższy z jednej strony i krótszy z drugiej strony,
+130: ale w ten sposób idealnie pasują do płaskiej głowicy optymalizując generowanie mocy.
+131:  Oczywiście na tej animacji ten skośny kształt jest nieco wyolbrzymiony,
+132: w praktyce te różnice są nieco mniejsze, ale fakt jest faktem.
+133: Przy okazji każdy korbowód wygrawerowane ma logo Bugatti, mimo że nikt nigdy nie będzie go widział.
+134: Kolejnym aspektem architektury VR są wałki rozrządu i zawory.
+135: W danej głowicy jeden wałek napędza wszystkie zawory dolotowe, a drugi wszystkie zawory wydechowe.
+136:  Z racji więc różnego nachylenia cylindrów wewnątrz jednej głowicy
+137:  każdy wałek napędza rząd krótszych oraz dłuższych zaworów.
+138:  Co ciekawe W16 z Veyrona jest idealnym przykładem dość rzadkiej architektury silnika,
+139: mianowicie jest to silnik idealnie kwadratowy,
+140: czyli tłoki mają dokładnie taki sam skok i średnicę, po 86 milimetrów.
+141: Co do zasady silniki nadkwadratowe z większą średnicą faworyzują moc w wysokiej partii obrotów,
+142:  natomiast podkwadratowe z większym skokiem tłoka świetnie generują moment obrotowy w dole.
+143: Silnik Veyrona jest można powiedzieć takim neutralnym złotym środkiem.
+144: Idąc dalej, jednostkę napędową podzielono na cztery sekcje.
+145: Każda sekcja składała się z 4 cylindrów,
+146: każda sekcja miała swój kolektor dolotowy oraz swój kolektor wydechowy.
+147: Następnie do każdej z sekcji przydzielono po jednej turbosprężarce,
+148: tworząc takie 4 zamknięte układy dolotowo-wydechowe.
+149:  Łącznie 4 turbosprężarki dostarczające powietrze do cylindrów o pojemności 8-miu litrów.
+150: Przy prawie 7 tysiącach obrotów na minutę silnik potrzebuje około 1000 litrów powietrza na sekundę
+151: by zaopatrzyć cylindry w odpowiednią ilość tlenu.
+152: Takie zapotrzebowanie na powietrze dałoby się pokryć jedną ogromną turbosprężarką,
+153: ale celem inżynierów było maksymalne zredukowanie turbolaga tak by przyjemnie korzystało się z mocy silnika w codziennych zastosowaniach.
+154: Stąd właśnie decyzja o podziale jednostki na 4 sekcje
+155: i stąd zastosowanie 4 turbosprężarek z osobnymi obiegami powietrza.
+156: Zapewniliśmy powietrze niezbędne do generowania tak abstrakcyjnej mocy,
+157:  ale w parze z nim musi iść również odpowiednia dawka paliwa.
+158: Ta pochodzi ze 100-litrowego zbiornika paliwa umieszczonego nad skrzynią biegów w kształcie takiej odwróconej litery U.
+159: W środku mamy dwie zmiennociśnieniowe pompy paliwa.
+160: Dlaczego dwie? Ponieważ mamy dwa osobne układy paliwowe.
+161: Każdy cylinder posiada po dwa portowe wtryskiwacze paliwa.
+162: Mniejsze o wydajności 211 g/min zaopatrują silnik w paliwo przy niskim obciążeniu,
+163: natomiast w przypadku dużego zapotrzebowania na moc do gry wchodzą również większe wtryskiwacze
+164: o wydajności 385 g/min.
+165:  Takie rozwiązanie paradoksalnie służy przede wszystkim precyzyjnemu dawkowaniu paliwa przy spokojnej jeździe,
+166:  gdzie przy wykorzystaniu tylko tych bardzo wydajnych wtryskiwaczy
+167:  trudno by było precyzyjnie dawkować znikomą dawkę paliwa.
+168: W przypadku dwóch osobnych układów paliwowych nie ma tego problemu.
+169: A żeby jeszcze bardziej Was zaciekawić to dodam, że silnik Veyrona ma dość istotny polski akcent w sobie.
+170: Dokładniej mówiąc panewki, wykonywane na specjalne zamówienie przez Gdański Bimet.
+171: Kolejną ciekawą kwestią jest kontrola poprawnego spalania mieszanki paliwowo-powietrznej i zapobieganie spalaniu stukowemu.
+172: Oczywiście silnik wyposażony jest w sondy lambda, z tego co udało mi się ustalić to jest ich łącznie 6,
+173: oczywiście również na pokładzie mamy czujniki spalania stukowego.
+174: Niestety inżynierowie nie byli w pełni zadowoleni z kontroli procesu spalania w cylindrach,
+175: dlatego jednostkę napędową wyposażono w 16 dodatkowych czujników jonowych.
+176: Podczas 4-suwowego cyklu pracy w silniku benzynowym uwalniana jest zmienna ilość jonów i elektronów,
+177:  ponieważ atomy paliwa i powietrza są jonizowane przez procesy zachodzące w cylindrze.
+178: Jony mogą być wytwarzane przez zapłon świecy lub poprzez zjawiska termiczne i chemiczne w czasie spalania.
+179:  Podczas wytwarzania iskry do świecy zapłonowej przyłożone jest odpowiednie napięcie.
+180: Wytworzone pole elektryczne powoduje wówczas, że jony i elektrony w cylindrze przemieszczają się między elektrodą środkową i masową wytwarzając iskrę.
+181: Przewodność mieszaniny gazów, a tym samym prąd mierzony na elektrodach świecy
+182:  zależy od gęstości elektronów i jonów wokół świecy.
+183: Podczas jonizacji cząsteczki stają się nośnikami prądu elektrycznego
+184:  tworząc tzw. prąd jonowy,
+185:  a mierząc dokładną ilość wytwarzanego prądu jonowego jesteśmy w stanie dokładnie prześledzić
+186:  i ocenić wszystkie procesy po kolei zachodzące w cylindrze,
+187: wszelkie występujące anomalie, a co za tym idzie
+188:  również poprawność spalania mieszanki paliwowo-powietrznej.
+189:  Przykładowo - spalanie stukowe powoduje nierówne skoki ciśnienia, a te z kolei powodują jonizację dodatkowych atomów
+190: przez co zmierzony prąd jonowy jest większy.
+191:  Wtedy czujnik jonowy informuje sterownik silnika, że doszło do spalania stukowego.
+192: Wszystkie te zabiegi dały piorunujący efekt.
+193: Ośmilitrowa W16 Veyrona generuje dokładnie 1001 KM mocy i 1250 Nm momentu obrotowego.
+194: Paradoksalnie można powiedzieć jest to jednostka stosunkowo mało wysilona.
+195:  W 1000-konnym silniku na jeden cylinder przypada nieco ponad 60 KM,
+196:  a to wynik bardzo niski na tle innych wyczynowych jednostek.
+197: W ten sposób zapewniono właśnie wymaganą przez Piecha zadowalającą bezawaryjność motoru.
+198: Gdybyśmy jednak na to spojrzeli inaczej, to w rzeczywistości silnik Veyrona produkuje nie 1000 KM a 3 razy więcej.
+199: Dlaczego?
+200: Tak naprawdę W16 generuje okolice 3000 KM,
+201:  co przy sprawności termicznej 33% daje 1000 KM do układu napędowego,
+202: 32% mocy oddawane jest w formie ciepła przez układ chłodzenia,
+203: a kolejne 35% w formie ciepła przez wydech.
+204: Przez godzinę pracy na maksymalnej mocy silnik Veyrona
+205:  mógłby wygenerować tyle ciepła i prądu elektrycznego,
+206: że wystarczyłoby na utrzymanie całego gospodarstwa domowego, zimą, przez miesiąc.
+207: I to właśnie zarządzanie ciepłem było jednym z największych zmagań  niemieckich konstruktorów.
+208: Po złożeniu silnika, przy jego pierwszym pomiarze mocy na stojaku,
+209: wydech rozgrzał się do tego stopnia, że w fabryce uruchomiły się alarmy przeciwpożarowe.
+210: Później zaś po zamontowaniu jednostki napędowej w egzemplarzu przedprodukcyjnym,
+211: najpierw generowany przez silnik moment obrotowy na pierwszym biegu
+212: doprowadził kompresor klimatyzacji do eksplozji.
+213: Następnie podczas testów przy 360 km/h
+214:  spaliny okazały się tak gorące, że ulegały ponownemu samozapłonowi po opuszczeniu wydechu.
+215:  Zarejestrowano wtedy płomień za wydechem o długości 1,8 metra!
+216:  Ciepło okazało się ogromnym problemem i dlatego środki podjęte przez niemców były absolutnie radykalne.
+217: Bugatti Veyron ma 10 chłodnic.
+218: Dokładniej mówiąc sam silnik ma 3 chłodnice,
+219: 3 chłodnice trzymają w ryzach temperaturę powietrza doładowującego,
+220: jedna połączona jest z układem klimatyzacji, a do tego mamy jeszcze po jednej
+221:  do chłodzenia oleju silnika, oleju skrzyni biegów oraz oleju dyferencjału.
+222: System chłodzenia to łącznie 55,
+223: powtarzam 55 litrów płynu chłodzącego biegnącego w dwóch osobnych układach
+224: z dwoma osobnymi pompami wodnymi.
+225: Jeden układ, 40 litrowy, wysokociśnieniowy połączony z trzema chłodnicami odpowiada typowo za temperaturę silnika,
+226: natomiast drugi, 15 litrowy, niskociśnieniowy układ chłodzi intercoolery oraz poszczególne chłodnice oleju.
+227: A przez te 10 chłodnic musi przepływać powietrze by te 55 litrów płynu chłodzić.
+228: Każdy wlot powietrza to niemal mały spadochron generujący aerodynamiczny opór
+229:  którego zadaniem jest zagarnąć odpowiednią ilość powietrza,
+230: a nie dochodzimy tu nawet do powietrza które musi wykarmić potężny 8-litrowy silnik do jego pracy.
+231: A mimo to udało się to świetnie zbalansować i ogólna bryła nadwozia jest raczej płynna, prosta.
+232: Wszystkie wloty są płynnie wkomponowane lub dobrze ukryte tak że nie rzucają się na pierwszy rzut oka.
+233: Bardzo ciekawie rozwiązano kwestię chłodzenia powietrza doładowującego.
+234: Z racji ogromu ciepła generowanego przez silnik oraz ciasnemu upakowaniu w komorze
+235:  bardzo ciężko jest zapewnić odpowiednio niską temperaturę powietrza dostarczanego do cylindrów.
+236: Rozwiązano to w ten sposób, że bezpośrednio nad każdym rzędem cylindrów umieszczono dwa wodne intercoolery
+237: które skutecznie ochładzają powietrze doładowujące,
+238:  z kolei te dwa wodne intercoolery połączone są z jednym dużym intercoolerem powietrznym z przodu
+239: i to on za pomocą przepływającego powietrza chłodzi ciecz z wodnych intercoolerów.
+240: Jak więc widzimy ujarzmienie ciepła generowanego przez silnik wymagało radykalnych kroków, ale udało się.
+241: Silnik oraz cały jego osprzęt w ostatecznej formie był gotowy do produkcji.
+242: Zanim jednak wyprodukowany ręcznie przez zaledwie 2 osoby motor trafiał do samochodu
+243:  to docierany był przez 10 godzin rozmaitych testów i programów
+244: symulujących różne scenariusze pracy silnika, w tym pod pełnym obciążeniem.
+245: Warto w tym miejscu podkreślić, że cała generowana moc przekazywana jest nie na dwa a na wszystkie 4 koła.
+246: Bugatti Veyron wyposażony jest w napęd na 4 koła oparty o dyferencjał Haldexa,
+247: natomiast przekazuje ją dwusprzęgłowa, siedmiobiegowa skrzynia biegów.
+248: Z grubsza jest to po prostu DSG znane z Volkswagenów, ale w tym przypadku podkreślić trzeba,
+249: że to jedna z pierwszych skrzyń DSG w produkcyjnych samochodach,
+250: a po drugie na tyle wzmocniona względem standardowych DSG,
+251:  że jej produkcję zlecono nie Borg-Warnerowi który tymi skrzyniami się zazwyczaj zajmował,
+252: tylko zamiast nich produkcją zajęła się brytyjska firma Ricardo.
+253: Każdy odpowiedzialny inżynier wie jednak, że mając do dyspozycji tak ogromną moc
+254: zadbać trzeba również o to, by tak rozpędzoną masę skutecznie zatrzymywać w miejscu.
+255: Dlatego właśnie Veyron ma niezwykły, podwójny system hamulcowy.
+256: Przede wszystkim 4 wentylowane, nawiercane, 16-calowe węglowo-ceramiczne tarcze.
+257:  Dokładniej mówiąc zbudowane są z węglika krzemu wzmocnionego włóknami węglowymi.
+258:  Potrafią one rozgrzać się do okolic nawet 1800 stopni Celsjusza utrzymując właściwości swoje cierne.
+259:  Standardowe tarcze wysiadają w okolicach 700 stopni.
+260: Stąd też dodatkowy kanał spod przedniego splittera pomagający chłodzić przednie hamulce oraz… akumulator.
+261:  Do tego zaciski z tytanowymi tłoczkami, 8-mioma z przodu i 6-cioma z tyłu.
+262: Producent bardzo intensywnie testował podatność hamulców na zjawisko tzw. pływania hamulców,
+263:  czyli nagłej utraty ich zdolności do hamowania na skutek przegrzania tarcz i klocków.
+264:  Testy polegały na powtarzających się cyklach rozpędzania z 80 km/h do 312 km/h,
+265: a następnie hamowania z powrotem do 80 i tak w kółko.
+266: Dzięki niewyobrażalnej mocy silnika i wydajności hamulców
+267:  jeden taki cykl zajmował dokładnie 22 sekundy
+268: i mimo ich ponownego powtarzania w kółko pływania hamulców nie stwierdzono.
+269:  Na tyle zadbano o bezpieczeństwo, że na wypadek awarii tradycyjnych hamulców
+270: zainstalowano system ABS również do hamulca ręcznego.
+271: Drugim systemem hamulcowym jest aktywny tylny spoiler, który w czasie 0,4 sekundy
+272: ustawia się pod kątem 55 stopni tworząc mnóstwo oporu aerodynamicznego.
+273: Na pierwszy rzut oka można by pomyśleć, że to tylko taki bajer mający w rzeczywistości mały wpływ na siłę hamowania.
+274: W praktyce jednak sam tylko tylny spoiler generuje dokładnie 0,68 G siły deceleracyjnej.
+275:  Mówiąc prościej - sam tylko tylny spoiler zapewnia tyle siły hamowania
+276: ile cały układ hamulcowy standardowego hatchbacka.
+277:  Bugatti chwali się, że Veyron jest w stanie wyhamować z 400 km/h do pełnego zatrzymania w mniej niż 10 sekund
+278: dochodząc do ujemnego przeciążenia 2G, ale co ciekawe w te 10 sekund i tak pokona dystans pół kilometra.
+279: Generalnie tylny spoiler to tak ciekawy i zaawansowany temat, że warto poświęcić mu dużo więcej uwagi.
+280: Czas więc zająć się aerodynamiką i przekonać się dlaczego Veyron tak dużo wspólnego ma z lotnictwem.
+281: Cały układ hydraulicznie napędzanego tylnego skrzydła jest bezpośrednim zapożyczeniem z klap samolotów.
+282: Żeby jednak zagwarantować maksymalną dokładność ich pracy oraz przede wszystkim natychmiastową reakcję
+283:  zbudowano innowacyjny układ sterowania oparty o światłowodowe czujniki i przewody.
+284: Z jednej strony mierzą i pilnują one by spoiler precyzyjnie wychylał się na odpowiednią wysokość
+285: i odpowiedni kąt natarcia, a dodatkowo spięty jest on z komputerem centralnym samochodu
+286:  tak by tylny spoiler aktywował się natychmiast po gwałtownym naciśnięciu pedału hamulca, bez żadnej zwłoki.
+287:  Bugatti zbudowało nawet specjalną maszynę poświęconą tylko pomiarom dokładności działania tego skrzydła.
+288: Mnóstwo nawiązań lotniczych mamy jeszcze w aerodynamice Veyrona i jego zachowaniu przy różnych prędkościach.
+289: W normalnym trybie jazdy samochód musi dbać o to, żeby w czasie gwałtownego przyspieszania pewnie trzymał się drogi.
+290: Normalnie podczas jazdy tylny spoiler jest schowany, natomiast żeby przeciwdziałać sile noszenia,
+291:  przy 200 km/h hydrauliczne zawieszenie obniża samochód o 2,5 centymetra z przodu
+292:  i nieco ponad centymetr z tyłu, przez co przód samochodu nachylony jest pod kątem 8 stopni.
+293:  Dodatkowo przy tej prędkości wysuwa się spoiler i ustawia pod kątem natarcia 16 stopni
+294:  oraz mniejsza lotka z kątem natarcia 27 stopni.
+295:  Wspólnie więc działa tylny spoiler i aerodynamika pod podwoziem,
+296:  gdzie dzięki idealnie płaskiej podłodze i dyfuzorom zachodzi efekt przypowierzchniowy.
+297:  W takim trybie Veyron zyskuje 350 kilogramów docisku aero które przeciwdziałają odrywaniu się od nawierzchni i niestabilności prowadzenia.
+298: Natomiast powyżej 370 km/h
+299: tak duży opór przeszkadza w uzyskaniu prędkości maksymalnej,
+300: dlatego spoiler chowa się obniżając kąt natarcia do zaledwie 3 stopni zmniejszając opór,
+301: ale za to zawieszenie obniża się o kolejne 2,5 centymetra z przodu i ponad 3 centymetry z tyłu,
+302: dzięki czemu większość docisku generowana jest głównie pod spodem.
+303: Więc spoiler zmniejsza swój aerodynamiczny opór i nie przeszkadza w osiąganiu maksymalnej prędkości,
+304: a jednocześnie nie pozbywamy się docisku zapobiegając oderwaniu się samochodu od ziemi.
+305: Przypomnijmy, mowa o 407 km/h,
+306: podczas gdy Boeing 747 startuje już przy okolicach 250 km/h.
+307: Bez tej siły docisku Veyron po prostu by odleciał.
+308: Bardzo duża odpowiedzialność spoczywa więc na tylnym spoilerze.
+309:  Odpowiedzialny jest on zarówno za hamowanie jak i za balansowanie oporu oraz docisku aerodynamicznego.
+310: Jego działanie bezpośrednio przekłada się też na budowę konstrukcji nośnej Veyrona, na którą spoiler naciska.
+311: Cała tylna rama samochodu spawana jest ręcznie przez certyfikowanych inżynierów lotniczych,
+312: ze względu na to jak duży nacisk jest w stanie wygenerować tylne skrzydło i jak wytrzymała musi być konstrukcja
+313: by bezpiecznie to przenieść na konstrukcję nośną, jednocześnie utrzymując też tak ogromny i ciężki silnik.
+314: Co ciekawe stworzona została nie z lekkiego aluminium, a z cięższej stali
+315: ponieważ ciepło generowane przez 4 turbiny dosłownie topiło aluminium.
+316: Stworzenie takiej ramy to koszt 20 tysięcy euro.
+317: Co ciekawe całą tylna sekcja samochodu z przednim monokokiem pasażerskim
+318:  łączy zaledwie 14 tytanowych śrub. Każda z nich kosztuje 100 dolarów.
+319: Niebywała jest też kwestia masy tego samochodu.
+320: Bugatti Veyron waży 1888 kg.
+321: To dużo.
+322: Ale... sam silnik to aż 498 kg.
+323:  Skrzynia biegów to kolejne 140 kg.
+324:  Spośród całej masy samochodu, aż za 1400 kg
+325: odpowiedzialna jest wytrzymała struktura nośna, monokok i układ napędowy.
+326: W jego przypadku po prostu musiano balansować pomiędzy niską masą ale jednak ogromną wytrzymałością konstrukcji.
+327: Plotka głosi - podkreślam to plotka
+328: - że w przypadku prac nad Veyronem wyszło, że gdyby samochód ważył mniej niż 2 tony
+329: to konstrukcja mogłaby się złamać w pół na skutek mocy,
+330:  przeciążeń w układzie napędowym i nacisku aero, głównie w czasie hamowania.
+331: A mimo to udało się zejść poniżej 2 ton do wspomnianej masy 1888 kg.
+332: Zamiast jednak odchudzać samochód to wręcz zaprzęgnięto inżynierię do pokonania wysokiej masy.
+333: Wytrzymałość postawiono ponad masę samochodu, tak by nie ryzykować wytrzymałości konstrukcji nośnej i napędu.
+334: A w temacie ryzyka dodać należy, że normalna prędkość maksymalna zablokowana jest do 350 km/h.
+335:  Żeby odblokować tryb Top speed potrzebny jest specjalny kluczyk.
+336: Procedura jest prosta.
+337:  Samochód wyłączony, zaparkowany, zapłon włączony,
+338:  skrzynia biegów na parking, hamulec wciśnięty,
+339: kierownica skręcona nie bardziej niż 3 stopnie kątowe
+340:  i przekręcamy drugi kluczyk w specjalnej stacyjce koło fotela.
+341: Skoro o prędkości maksymalnej mowa to pora  omówić rekord prędkości Bugatti Veyrona.
+342: Jedynym miejscem gdzie można było przetestować jego prędkość maksymalną był obiekt Ehra-Lessien,
+343: około 20 km na północ od fabryki w Wolfsburgu.
+344: Skryty w lesie, tajny kompleks wybudowany w czasie zimnej wojny w strefie ściśle zamkniętej przestrzeni powietrznej
+345: wykorzystywany był przez niemców do testowania swoich technologii
+346:  i obejmuje prawie 100 km prywatnego asfaltu
+347: z najróżniejszymi zakrętami służącymi jako tor testowy,
+348:  najważniejsza jest jednak długa prosta.
+349: Idealnie płaski i równy odcinek o długości prawie 9 km.
+350:  Ze względu na krzywiznę ziemi, mimo idealnej równości stojąc na starcie nie widać jej końca.
+351:  Idealne i na dobrą sprawę jedyne miejsce w którym można było rozpędzić Veyrona do maxa.
+352: Zawsze jednak próby bicia rekordów prędkości wiążą się z kolejnymi aspektami spędzającymi sen z powiek inżynierów.
+353: Zacznijmy od gęstości powietrza.
+354: Czy zdarzyło Wam się jechać np. drogą krajową z prędkością 90 km/h i wystawić rękę przez otwarte okno?
+355: Jakie wtedy jest powietrze?
+356: powietrze jest gęste niczym woda.
+357:  Przy 200 km/h woda zamienia się bardziej w żel,
+358: przy 300 km/h przybiera postać galarety,
+359: 400 km/h oznacza konieczność przebijania się jakby przez gumę.
+360: Przy wysokich prędkościach każdy kolejny kilometr na godzinę wymaga dokładania ogromnej ilości mocy
+361:  by przez tak gęste powietrze się przebić.
+362: Dlatego rozpędzenie się do 250 km/h wymaga zaledwie 280 KM.
+363: Im szybciej jedziemy tym bardziej matka natura stara się na spowolnić,
+364: dlatego pozostałe 721 koni
+365: potrzebne jest by osiągnąć kolejne niecałe 200 km/h
+366:  - wszystko ze względu na zwiększającą się gęstość powietrza i opór aerodynamiczny.
+367: Swoją rolę przy aerodynamice blisko prędkości maksymalnej ma również tytanowy wydech
+368:  z jedną wielką końcówką, ale również końcówkami wypuszczonymi w dół przy dyfuzorze.
+369: Zadaniem głównego wylotu jest wystrzeliwanie spalin z możliwie dużą prędkością jak najdalej od nadwozia,
+370:  tak aby za samochodem ograniczyć tworzenie zawirowań powietrza.
+371: Te natomiast rozprężają gazy z silnika w obrębie dyfuzora,
+372:  tak, żeby zwiększać jego wydajność aerodynamiczną.
+373:  Dokładnie tak samo, działa to w Formule 1.
+374: Warto jednak wspomnieć, że tym konkretnym egzemplarzu oryginalny wydech został zastąpiony customowym tytanowym wydechem.
+375: Jednak, nie jest to po prostu inny wydech na zasadzie “tytan, przelot, byle głośno i tyle”.
+376: O nie nie, nie tutaj, nie w projekcie na takim poziomie.
+377: Jest to stworzony na zamówienie, wykonany przez MG Motorsport wydech stuprocentowo dedykowany do Veyrona.
+378: Mamy w nim nie tylko wydech końcowy, ale co niemal niespotykane w Veyronie downpipy zaraz za turbosprężarkami oraz X-pipe,
+379:  a ponadto tak samo na wzór oryginału całą osobną sekcję z końcówkami wypuszczonymi w dyfuzor.
+380:  Co więcej, mimo brak jakichkolwiek mechanicznych klap jest to wydech aktywny.
+381: To od zbudowanego ciśnienia gazów wylotowych za turbosprężarkami zależy droga opróżniania układu ze spalin
+382:  i m.in. właśnie dolna sekcja aktywuje się dopiero powyżej określonego ciśnienia w układzie wydechowym.
+383:  Bez tradycyjnych mechanicznych klap.
+384: Jako ciekawostkę dodam tylko, że oryginalny wydech Veyrona ma łącznie 6 katalizatorów.
+385: Ich łączna powierzchnia czynna rdzenia wynosi ponad 230 TYSIĘCY metrów kwadratowych.
+386: To 57 akrów.
+387: Super ciekawym tematem są również opony.
+388: Michelin specjalnie dla Veyrona zaprojektował opony Pilot Sport PAX typu run-flat.
+389: W niej poszczególne warstwy gumy nakładane są na siebie ręcznie i mierzone są laserowo pod kątem dokładności.
+390: Do tego wzmocniono węzły wewnątrz opony aby wytrzymywały niewiarygodną siłę odśrodkową przy zakładanych prędkościach maksymalnych.
+391: Przy takiej prędkości koła obracają się do 4000 razy na minutę,
+392: co daje około 70 obrotów na sekundę.
+393: Opony muszą walczyć z siłą odśrodkową 5442G
+394: i szacuje się, że są w stanie wytrzymać w takich warunkach zaledwie 15 minut.
+395: Michelin chwali się, że opony prześwietlane były promieniami rentgena by upewnić się,
+396:  że w całej strukturze gumy nie ma nawet najmniejszych niedoskonałości czy mikropęknięć.
+397:  Do tego by zapewnić maksymalny poziom uszczelnienia opony przyklejane są bezpośrednio do felgi.
+398: Klej ten wymaga wymiany mniej więcej co 18 miesięcy,
+399: niezależnie od tego czy właściciel w ogóle porusza się swoim Bugatti.
+400:  Budda w swoim egzemplarzu zamontował zarówno świetne, robione na zamówienie felgi jak i inne opony.
+401: Z prostego powodu.
+402:  Nie ma on zamiaru rozpędzać się do 400 km/h,
+403: więc nie ma sensu pchać się w wysokie koszty oryginalnych opon. I słusznie.
+404: Mimo tak skrupulatnego podejścia do tematu gumy
+405:  rozpędzenie ich w realnych warunkach do prędkości powyżej 400 km/h nie było prostym zadaniem.
+406: Testy w laboratorium nigdy nie są w stanie oddać realnych warunków.
+407: Owszem, Michelin przetestowało te opony na zbudowanej specjalnie dla Veyrona maszynie
+408: symulując prędkość 449 km/h
+409:  oraz dociążając je dużo bardziej niż masa Bugatti połączona z dociskiem aero.
+410: Nadal jednak trudno jest w takich warunkach oddać zmieniający się nacisk pomiędzy osie
+411: czy zmieniającą się, chropowatą powierzchnię asfaltu generującą zmienne tarcie.
+412: Do zmartwień inżynierów dochodziło jeszcze… znów, ciepło.
+413:  Opony również się grzeją, a musiały one przecież wytrzymać nie tylko jazdę z prędkością 407 km/h
+414: ale również cały proces rozpędzania się do tej prędkości po chropowatej powierzchni asfaltu.
+415: Co ciekawe, tor Ehra Lessien przez dziesięciolecia wielokrotnie wykorzystywany był to przejazdów z wysokimi prędkościami,
+416: ale zdecydowana większość z nich odbywała się z kierunku zgodnym z ruchem wskazówek zegara,
+417:  przez co struktura asfaltu została wytarta właśnie w tym kierunku.
+418: Natomiast oficjalne bicie rekordu przez Veyrona odbyć się musiało w obie strony.
+419: To oznaczało konieczność jazdy wbrew ułożonej fakturze asfaltu,
+420: co oznaczało znacznie zwiększone zużycie opon i jeszcze większe tarcie.
+421: Stąd w oponach dodatkowe mikrorowki odprowadzające nadmiar wygenerowanego ciepła.
+422: Nie mniej jednak 19 kwietnia 2005 nadszedł czas próby.
+423:  Bugatti Veyron wyruszył na długą prostą toru Ehra-Lessien.
+424: Przy pełnej mocy silnik zużywa 47000 litrów powietrza na minutę.
+425:  To tyle ile człowiek zużywa mniej więcej w ciągu tygodnia.
+426: Przy prędkości maksymalnej Veyron pali 115 litrów wysokooktanowej benzyny na 100 kilometrów.
+427: Opróżnienie 100-litrowego baku paliwa zajmuje 12 minut.
+428: Finalnie jednak udało się.
+429: Średnia zarejestrowana prędkość maksymalna z dwóch przejazdów wyniosła dokładnie 408,47 km/h.
+430: Oficjalny rekord świata dla samochodu produkcyjnego.
+431: Co ciekawe niewiele osób wie, że faktyczna prędkość maksymalna jaką udało się osiągnąć Veyronem w pojedynczym przejeździe to 418 km/h.
+432: Bugatti jednak postanowiło komputerowo ograniczyć ją do 407 km/h.
+433: Powyżej tej prędkości, przy tak gęstym powietrzu
+434:  nagłe wysunięcie hamulca powietrznego powoduje utratę stabilności prowadzenia,
+435: która dla niewykwalifikowanego kierowcy mogłaby się skończyć wypadkiem.
+436: A oprócz tego prędkość 407 km/h oznaczała dokonanie zemsty na Peugeocie, więc nie trzeba było więcej.
+437: W tym momencie moglibyśmy zakończyć fabułę tego filmu, ale nie tym razem.
+438: Nieczęsto zdarza się, żebyśmy mieli okazję obcować z tak rzadkim hipersamochodem.
+439: Zajmijmy się więc nim inaczej.
+440: Od takiej codziennej strony, po prostu jako użytkownik.
+441: Poczujmy się wspólnie jakbyśmy byli właścicielami Veyrona zerkając na jego detale i ciekawostki.
+442: Zacznijmy od kluczyka, bo to najlepszy przykład wymienności części wewnątrz grupy Volkswagena.
+443: Cóż, to po prostu zwykły VAGowski kluczyk tzw. scyzoryk
+444: i nie różni się on szczególnie między tym co miały Passaty czy Audice z tamtych lat.
+445: Przechodząc do środka - silnik uruchamia się połączeniem kluczyka i przycisku startowego.
+446: Sam kluczyk odpowiada tylko za elektrykę i zapłon i po jego przekręceniu witają nas…
+447:  typowe volkswagenowskie dźwięki kontrolek.
+448:  Czuje się niemal jak w domu bo są identyczne jak w mojej byłej Audicy A4!
+449: Mamy dość niestandardowy schemat dźwigni automatycznej skrzyni biegów.
+450: Zazwyczaj jest w linii Park, Reverse, Neutral and Drive,
+451: a tutaj Park to przycisk, Drive do prawej, Neutral do lewej a Reverse do lewej i w dół.
+452: To co im się mega mega podoba we wnętrzu to brak jakichkolwiek ekranów,
+453:  poza tymi maleńkimi monochromatycznymi wyświetlaczami.
+454: Mimo że już w tamtych latach ekrany były bardzo popularne to do Veyrona ich nie wpakowano,
+455: bo Bugatti wiedziało, że szybko staną się przedawnione i po prostu stare.
+456: Dzięki temu mamy klasyczne, przyjemne, ale nie przestarzałe wnętrze.
+457: Oczywiście deska rozdzielcza powiela charakterystyczny schemat dla Bugatti kształtu podkowy.
+458:  Jeśli jednak przyjrzymy się bliżej to zauważymy, że dookoła niej mamy… panele wentylacyjne!
+459: Głośnością radia i temperaturą sterujemy za pomocą pokręteł,
+460: wyżej mamy przycisk świateł awaryjnych, a na szczycie piękny analogowy zegarek Bugatti.
+461:  Pytanie... jak nastawić ten zegarek skoro nie ma żadnych przycisków ani ekranu dookoła niego?
+462: Zapraszamy do schowka otwieranego jakże pięknym aluminiowym przyciskiem,
+463: w środku którego znajdziemy możliwość ustawienia godziny.
+464: Zegaaaryyy… mamy ogromny obrotomierz,
+465:  oczywiście prędkościomierz i nie tylko analogowy bo jest również cyfrowe wskazanie prędkości na małym ekraniku,
+467: a piąty dodatkowy zegar to… wskaźnik aktualnie zużywanej mocy.
+468: Jadąc więc sobie na autostradzie możesz podejrzeć że aktualnie silnik zużywa na przykład 150 KM,
+469: więc kolejne 900 masz w zapasie.
+470: Po boku piękne pałąki od kierunkowskazów.
+471: Wykonane z magnezu. Kosztują 5000 dolarów za sztukę.
+472: Całość widoku z perspektywy kierowcy dopełnia prosta kierownica.
+473: Bez żadnych przycisków, jedynie wielkie logo Bugatti, które jednocześnie jest, a jakże… klaksonem.
+474: Bardzo ciekawy jest przełącznik podgrzewanych siedzeń.
+475: Z każdym obrotem podświetlany prostokąt informujący o stopniu podgrzewania staje się coraz większy i większy.
+476: Czas wyjść na zewnątrz.
+477: Bagażnik z przodu zawiera m.in. plakietkę z numerem seryjnym,
+478: ale przy okazji jest również bardzo ciekawe ostrzeżenia.
+479: “Temperatura w bagażniku może przekroczyć 50 stopni Celsjusza.”
+480: Nic dziwnego skoro w tej okolicy mamy tyle chłodnic.
+481: Warto zwrócić uwagę że silnik nie jest niczym zakryty,
+482: nie ma żadnej osłony, szyby ani klapy, która by się otwierała.
+483: Nic w tym stylu. A więc… jak można sprawdzić stan oleju? Tym  oto guzikiem.
+484: Co ciekawe przy każdym uruchomieniu silnika skrzydła robią mały taniec
+485:  który w rzeczywistości jest testem potwierdzającym, że aktywna aerodynamika działa jak należy.
+486: A po uniesieniu spoilera widać w środku można powiedzieć “żywą” mechanikę.
+487: Nikt nie przejmował się, żeby były jakieś ładne plastikowe obudowy czy coś w tym stylu.
+488: To po prostu surowa maszyna nie skrywająca swoich wnętrzności.
+489: Ciekawie prezentują się również światła.
+490: Z tyłu światła to LEDy,
+491: które w tamtym czasie były czymś niezwykłym i stosunkowo rzadko spotykanym,
+492:  natomiast z przodu mamy ksenony, a kierunkowskazy to… najzwyklejsze halogeny.
+493: A skoro chcielibyśmy się poczuć jak właściciele Veyrona to nie można pominąć również tych mniej przyjemnych aspektów,
+494:  czas pomówić o cenie i kosztach utrzymania.
+495: Cena nowego Veyrona zaczynała się od 1 750 000 dolarów,
+496: obecnie ceny potrafią być dużo wyższe, ale to już zależy od rynku i konkretnego egzemplarza.
+497:  Co ciekawe koszt produkcji przekraczał 5 000 000 dolarów,
+498: więc Bugatti a raczej Volkswagen tracił na każdym jednym spośród 450 zbudowanych egzemplarzy.
+499:  Ale stać ich było, plus Veyron był przede wszystkim pokazem możliwości koncernu i ich jeżdżącą reklamą.
+500: Co jeszcze bardziej interesujące - żaden egzemplarz nie był sprzedawany z zerowym przebiegiem.
+501: Każdy samochód przed oddaniem w ręce klienta odbywał 500-kilometrową jazdę testową
+502:  aby upewnić się, że nie ma żadnych defektów, żadnego skrzypienia tapicerki itd.
+503:  Jeśli test został oblany, wtedy egzemplarz… wracał do fabryki na poprawki.
+504: No to kochani czas na koszta utrzymania.
+505: Wymiana wszystkich płynów to według oficjalnego cennika koszt 25 000 dolarów.
+506: Głównie ze względu na robociznę,
+507: łącznie w samochodzie jest aż 16 korków spustowych i nie są one łatwo dostępne.
+508: Zestaw oryginalnych opon Michelin to 25 000 dolarów za komplet.
+509:  Zaleca się ich wymianę co 4000 kilometrów lub 18 miesięcy, zależy co nastąpi pierwsze.
+510: Sama wymiana natomiast zgodnie z książką serwisową powinna odbywać się tylko we Francji
+511:  i kosztuje 70 tysięcy dolarów ze względu właśnie na klejenie opon do felg.
+512: A skoro przy felgach jesteśmy to ze względu na stosowanie kleju co każdą trzecią wymianę opon
+513: zaleca się również wymienić felgi. 65 000 dolarów.
+514: Wymiana turbosprężarki według oficjalnego cennika to około 6400 tysięcy dolarów.
+515:  Tyle samo kosztuje chłodnica powietrza doładowującego,
+516:  ale niestety robocizna w tym przypadku to kolejne 2000 dolarów.
+517: Bak paliwa to 20 tysięcy dolarów plus 22 tysiące za robociznę, ze względu na jego umiejscowienie.
+518: Na szczęście koło napędu rozrządu jest stosunkowo tanie bo kosztuje zaledwie 800 dolarów.
+519: Niestety, wymaga to wyjęcia i rozebrania silnika, więc robocizna około 21 tysięcy dolarów.
+520: Wszystkie podane ceny to oczywiście ceny brutto na co warto zwrócić uwagę.
+521: Cóż, nie ma lekko.
+522:  Ale taką cenę trzeba zapłacić za posiadanie jednego z najszybszych samochodów drogowych w historii.
+523:  Jedynej i niepowtarzalnej legendy.
+524:  A skoro dotarliśmy aż tutaj, to do omówienia pozostała nam ostatnia kwestia.
+525: Jak więc mógłbym podsumować Veyrona?
+526:  Dla wielu osób tego typu samochody są… kompletnie bezsensowne.
+527: Jasne, po co jechać 400 km/h, skoro jedyne miejsce gdzie można tego dokonać to ściśle strzeżona baza testowa Volkswagena
+528: zbudowana w czasie zimnej wojny w strefie zamkniętej przestrzeni powietrznej żeby nikt jej nie wykrył.
+529: Tak… ale te samochody przekraczają granicę, pchają ludzkość na przód,
+530: udowadniają że to co do niedawna wydawało się niemożliwe, teraz jest jak najbardziej realne.
+531: Podsumujmy sobie. 407 km/h. 1001 KM.
+532:  Moc, która zapewnia ogromne przyspieszenie.
+533:  Powiedzmy tak, gdybyśmy wzięli ostatniego rekordzistę prędkości czyli McLarena F1, którego uwielbiam
+534:  i obok niego postawili Veyrona,
+535:  to moglibyśmy pozwolić McLarenowi rozpędzić się do 100 km/h
+536: a to Veyron jako pierwszy osiągnąłby 300 km/h!
+537: A przy 300 km/h samoloty pasażerskie  startują do lotu,
+538: Dlatego trzeba było zadbać o to, żeby Veyron nie odfrunął!
+539: Dlatego w czasie jazdy na bieżąco dostosowuje swoją aerodynamikę, swoją wysokość i pochylenie względem nawierzchni.
+540: Zaprojektowanie dwusprzęgłowej skrzyni biegów która zniosłaby ten moment obrotowy
+541: oznaczało konieczność wysłania zlecenia do Wielkiej Brytanii
+542: do firmy zajmującej się bolidami  Formuły 1,
+543:  a omi mieli z tym problem, bo ówczesne bolidy F1 generowały o ⅓ niutonometrów mniej niż Veyron.
+544: A to wszystko w samochodzie sprzed prawie 20 lat,
+545:  który jest wytrzymały jak skała, prowadzi się niczym przyklejony do drogi
+546: i waży mniej niż dzisiejsze zwykłe SUVy czy elektryki!
+547: Niewiarygodna maszyna.
+548: Bugatti Veyron to epicki krok milowy na drodze rozwoju ludzkości,
+549: podobnie jak Concorde, ThrustSSC, czy teleskop Hubble'a.
+550: Zdumiewające motoryzacyjne dzieło wymagające pokonania góry problemów
+551:  i stosowania wielu innowacji.
+552: Takie maszyny dosłownie zmieniają motoryzacje, zmieniają świat. Niesamowity samochód.
+553: I pomyśleć, że za dzieciaka z wypiekami na twarzy oglądałem jak James May rozpędza Veyrona do prędkości maksymalnej, a teraz
+554: siedzę obok niego, opowiadam o nim i go Wam prezentuje.
+555:  A korzystając z okazji, że mam tu właściciela tego Veyrona to zadam Ci jedno pytanie.
+556:  Wiadomo, że testowałeś i jeździłeś  w życiu wieloma supersamochodami,
+557: jedna rzecz,która Cię najbardziej w nim jara, jedna rzec, którą najbardziej lubisz w Veyronie?
+558: - Jest tego całkiem sporo, ale jedna, która dla mnie jest taka zdecydowanie dominująca, to jest to, że
+559: im szybciej jedziemy tym samochodem, tym ten samochód pewniej się prowadzi, tym bardziej jest przyssany do ziemi
+560: i tym większy mamy feeling, że to jest Bugatti.
+561: To pewnie za sprawą aerodynamiki, to pewnie za sprawą rozłożenia masy, również przełożeń,
+562: które pewnie tutaj są, żeby ten samochód rozpędzić do ponad 400 km/h,
+563: natomiast odbieraliśmy go w Niemczech,
+564: i w Niemczech istnieją autostrady bez ograniczeń prędkości, ten samochód powyżej 300km/h
+565: prowadzi się jakby jechał 50 km/h.
+566: Można jedną ręką, dwoma paluszkami skręcać.
+567: - Czyli dokładnie tak jak opisywaliśmy, cała ta technologia zastosowana w nim sprawia,
+568: że prawie 20 letni sammochód jest
+569: wytrzymały jak skała i pędzi z prędkościami niewyobrażalnymi dla zwyklłych samochodów.
+570: - Poza tym dość cięzki samochód, i tak w zakrętach podczas gdy byliśmy na Słowacji, żeby nagrywać go na górskich drogach
+571: prowadzi się porównywalnie dobrze do 600 - 700 kg lżejszego Huracana STO, naprawdę.
+572: - Niesamowite!
+573: Uwielbiam takie filmy, uwielbiam takie tematy i uwielbiam takie maszyny.
+574: Podziękowania dla Buddy  za użyczenie swojego Veyrona,
+575: podziękowania dla Was, dla widzów, którzy oglądają takie materiały.
+576: Podziękowania dla patronów, którzy  wspierają ten kanał oraz podziękowania dla partnerów komercyjnych kanału.
+577: SingleOrigin, którzy zaopatrują mnie w superpyszną, wypalaną na zamówienie kawę. Sięgam po nią chyba wręcz częściej niż powinienem,
+578:  tak samo jak po G2A, gdzie kupicie najlepsze gry komputerowe zawsze w świetnej cenie. Po prostu, więcej za mniej!
+579:  Po prawej stronie wyświetlają się Wam inne super ciekawe filmy, a po lewej stronie możliwość subskrypcji kanału, koniecznie z dzwonkiem powiadomień.
+580:  Z tej strony Robert, dziękuje za wspólnie spędzony z Wami czas, do zobaczenia następnym razem, cześć!
